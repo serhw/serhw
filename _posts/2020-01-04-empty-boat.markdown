@@ -14,4 +14,4 @@ categories: parables
 
 В эту тихую ночь я подошел к центру внутри себя. Пустая лодка стала моим учителем. С тех пор, если кто-то пытался обидеть меня и во мне поднимался гнев, я смеялся и говорил: «Эта лодка тоже пуста».
 
-Источник: [https://elims.org.ua/pritchi/pritcha-pustaya-lodka/](https://elims.org.ua/pritchi/pritcha-pustaya-lodka/){:target="_blank"}
+Источник: [https://elims.org.ua/pritchi/](https://elims.org.ua/pritchi/){:target="_blank"}
