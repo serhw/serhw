@@ -4,7 +4,7 @@ title:  "Пустая лодка"
 date:   2020-01-04 21:29:00 +0200
 categories: parables
 ---
-![Притча "Пустая лодка"](/assets/pritcha-pustaya-lodka.jpg)
+![Притча "Пустая лодка"]({{site.assets_prefix}}/assets/pritcha-pustaya-lodka.jpg)
 
 Дзенская притча: 
 
